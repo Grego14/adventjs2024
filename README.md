@@ -6,3 +6,4 @@
 -   [2](./02_createFrame.js) -> 5/5 ⭐
 -   [3](./03_organizeInventory.js) -> 5/5 ⭐
 -   [4](./04_createXmasTree.js) -> 5/5 ⭐
+-   [5](./05_organizeShoes.js) -> 5/5 ⭐
